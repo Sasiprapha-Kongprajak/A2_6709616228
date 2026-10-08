@@ -26,3 +26,27 @@ hr {
 i {
     color: #1e78b4;
 }
+
+header {
+    margin: 10px 15px;
+    background-image: url('../media/bookbg.JPG');
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.subtitle {
+    font-size: medium;
+    color: #c6e8d5;
+}
+
+body {
+    background-color: #d2e5fa;
+}
